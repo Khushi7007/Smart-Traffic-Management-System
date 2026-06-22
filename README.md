@@ -1,1 +1,1 @@
-It helpsnto manage Traffic
+It helps to manage Traffic
